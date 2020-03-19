@@ -1,0 +1,4 @@
+This is the challange in Misc category. where we have given with recording.pacpng file.
+When opened with wireshark and started analysing the packets i found flag in one TCP packet.
+Which is encryptefd in uel format.When changed to text format it gives flag
+FLAG: actf{wireshark_isn't_so_bad_huh-a9d8g99ikdf}
